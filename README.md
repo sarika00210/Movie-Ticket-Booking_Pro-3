@@ -1,1 +1,1 @@
-https://quick-client-beryl.vercel.app/
+https://movie-ticket-booking-pro-2-client.vercel.app/
